@@ -1,0 +1,4 @@
+.vagrant
+cookbooks
+nodes/*.json
+!nodes/sample.json
